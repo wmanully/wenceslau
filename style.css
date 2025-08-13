@@ -13,5 +13,61 @@ frameborder="0" allowfullscreen></iframe>
 ‹p›Descrição breve do vídeo. ‹/p>
 </div>
 </div›
-</body>
+</body>font-family: Arial, sans-serif;
+4
+background: #0fofof;
+5
+padding: 20px;
+6
+text-align: center;
+7
+}
+8
+
+9
+•video-box {
+10
+background: #a62121;
+11
+padding: 10px;
+12
+border-radius: 6px;
+13
+max-width: 560px;
+14
+margin: auto;
+15
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+16
+
+17
+video {
+18
+width: 100%;
+19
+border-radius: 4px;
+20
+
+21
+info {
+22
+margin-top: 8px;
+23
+
+24
+•info h3 {
+25
+font-size: 16px;
+26
+margin: 4px 0;
+27
+color: #002f6c;
+28
+｝
+29
+•info p {
+30
+font-size: 13px;
+31
+color: #e0dfdf;
 </html>
